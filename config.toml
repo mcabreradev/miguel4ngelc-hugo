@@ -1,4 +1,4 @@
-baseurl = "http://miguel4ngelc.github.io/"
+baseurl = "https://miguel4ngelc.github.io/"
 languageCode = "en-us"
 title = "Miguelangel Cabrera"
 theme = "hugo-future-imperfect"
@@ -8,6 +8,9 @@ disqusShortname = "miguel4ngelc"
 googleAnalytics = ""
 
 [params]
+    author = "Miguelangel Cabrera"
+    disqusShortname = "miguel4ngelc"
+
     # Sets the meta tag description, usually reserved for the main page
     description          = "Blog personal, tips, datos, y mucha informacion sobre la vida, viajes, y offtopics, ported by Miguelangel Cabrera. Powered by Hugo"
     # This will appear on the top left of the navigation bar
